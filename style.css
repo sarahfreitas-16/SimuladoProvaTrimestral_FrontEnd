@@ -1,0 +1,42 @@
+*{margin: 0;
+}
+
+table{
+   width: 100%;
+   height: 100vh;
+}
+
+#linha1{ height: 150px;}
+#linha2{ height: 120px;}
+#linha3{ height: 260px;}
+#linha4{ height: 60px;}
+#linha5{ height: 60px;}
+
+#td1{ width: 30%;}
+#td2{ width: 30%;}
+#td3{ width: 40%;}
+
+#td4{ width: 32%;}
+#td5{ width: 7%;}
+#td6{ width: 18%;}
+#td8{ width: 28%;}
+
+.logo{
+   text-align:right;
+}
+
+.cor1{
+   background-color: yellow;
+}
+.cor2{
+   background-color: blueviolet;
+}
+.cor3{
+ background-color: chocolate;
+}
+.cor4{
+   background-color: brown;
+}
+.img{
+   text-align: center;
+}
